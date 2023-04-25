@@ -1,4 +1,4 @@
-Questions and Answrers
+Questions and Answers
 -----------------------
 
 ### What is CI-CD?
